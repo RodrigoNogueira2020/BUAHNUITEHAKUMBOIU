@@ -1,0 +1,23 @@
+1ª - INSTALAR/ATUALIZAR O JAVA
+
+2º - INSTALAR O JDK jdk-17.0.9_windows-x64_bin.exe
+
+3º - FAZER DOWNLOAD DA VERSÃO DEFAULT 1.18.2 DO MINECRAFT E EXECUTAR UMA VEZ. PODEM FECHAR LOGO DEPOIS
+
+4º - INSTALAR O FORGE(forge-1.18.2-40.2.0-installer.jar)
+	É só executar e clicar OK
+
+5º - PARA INSTALAR OS MODS:
+	CTRL + R -> %appdata% -> ENTRAR NA PASTA ".minecraft" E COLAR A "mods" DA PASTA "Tutorial" PARA DENTRO DO ".minecraft"
+
+6º - HAMACHI: 
+	Instalar hamachi.msi. Entrem na rede: Nome da rede: iloveminorsimeanminers; Palavra-passe: iloveminers; Senão der para entrar é porque a rede já está cheia, é só me 	dizerem para criar outra rede.
+
+7º - ENTRAR NO SERVIDOR:
+	Dentro do minecraft -> Multiplayer -> Adicionar Servidor -> O nome é o que quiserem
+	PARA SABEREM O ENDEREÇO DO SERVER:
+		Clicar em mim no hamachi e copiar o IPv4 -> colar onde é para meter o endereço do server -> À frente do IP meter :25565
+
+8º - QUALQUER DÚVIDA OU QUESTÃO, DEIXEM DE SER DEFICIENTES DA MERDA TIPO KELSON DE P.A. TÁ TUDO AQUI EXPLICADO PRA UM PUTO DE 4 ANOS(smash), POR ORDEM E TUDO
+
+ 
